@@ -1,0 +1,1 @@
+{"name":"Local: profits","url":"c:\\Users\\SOHAM\\Desktop\\code\\profits.cpp","tests":[{"id":1698342328394,"input":"2 50\n25 30\n25 37","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\SOHAM\\Desktop\\code\\profits.cpp","group":"local","local":true}
